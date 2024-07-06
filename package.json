@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/rahuldara/hello",
+  "homepage": "https://github.com/rahuldara009/dmail",
 
   "scripts": {
     "dev": "vite",
